@@ -144,3 +144,7 @@ a {
 .logo-tkR{
   padding-left: 90px;
 }
+
+li a p{
+  text-align: center;
+}

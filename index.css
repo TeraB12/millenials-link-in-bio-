@@ -102,3 +102,45 @@ a {
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
+
+.logo-webL{
+  padding-right: 90px;
+}
+.logo-webR{
+  padding-left: 90px;
+}
+
+.logo-wspL1{
+  padding-right: 60px;
+}
+.logo-wspR1{
+  padding-left: 60px;
+}
+
+.logo-wspL2{
+  padding-right: 60px;
+}
+.logo-wspR2{
+  padding-left: 60px;
+}
+
+.logo-wspL3{
+  padding-right: 43px;
+}
+.logo-wspR3{
+  padding-left: 43px;
+}
+
+.logo-igL{
+  padding-right: 75px;
+}
+.logo-igR{
+  padding-left: 75px;
+}
+
+.logo-tkL{
+  padding-right: 90px;
+}
+.logo-tkR{
+  padding-left: 90px;
+}
